@@ -9,11 +9,11 @@ The software here can be used to faithfully reproduce all the experimental resul
 
 A table of contents for this README file:
 
-- Setup: initial software prepartion
-- Setup: preparing the benchmark data sets
-- Getting started
-- Demos and visualization
-- Safe hash value
+- <a href="#setup_init">Setup: initial software prepartion</a>
+- <a href="#setup_data">Setup: preparing the benchmark data sets</a>
+- <a href="#start">Getting started</a>
+- <a href="#demos">Demos and visualization</a>
+- <a href="#safehash">Safe hash value</a>
 
 
 <a id="setup_init"></a>
