@@ -1,0 +1,6 @@
+## Set Jupyter notebooks to be treated as documentation.
+# References:
+#  https://github.com/github/linguist#using-gitattributes
+#  https://github.com/github/linguist/issues/3282
+
+mrisk/*.ipynb linguist-documentation
