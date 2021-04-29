@@ -3,7 +3,7 @@
 
 This repository houses software for recreating the numerical examples and experiments included in the following paper:
 
-- Learning with risks based on M-location. Matthew J. Holland. *Preprint*.
+- <a href="https://arxiv.org/abs/2012.02424v2">Learning with risks based on M-location</a>. Matthew J. Holland. *Preprint*.
 
 The software here can be used to faithfully reproduce all the experimental results given in the above paper, and can also be easily applied to more general machine learning tasks, going well beyond the examples considered here.
 
