@@ -19,7 +19,7 @@ A table of contents for this README file:
 <a id="setup_init"></a>
 ## Setup: initial software preparation
 
-To begin, please ensure you have the prerequisite software used in the setup of our `mml` repository.
+To begin, please ensure you have the <a href="https://github.com/feedbackward/mml#prerequisites">prerequisite software</a> used in the setup of our `mml` repository.
 
 Next, make a local copy of the repository and create a virtual environment for working in as follows:
 
