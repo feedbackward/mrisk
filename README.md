@@ -33,8 +33,8 @@ $ conda activate mrisk
 Having made (and activated) this new environment, we would like to use pip to install the supporting libraries for convenient access. This is done easily, by simply running
 
 ```
-(mrisk) cd [mml path]/mml
-(mrisk) pip install -e ./
+(mrisk) $ cd [mml path]/mml
+(mrisk) $ pip install -e ./
 ```
 
 with the `[mml path]` placeholder replaced with the path to wherever you placed the repositories. If you desire a safe, tested version of `mml`, just run
