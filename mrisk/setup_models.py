@@ -4,6 +4,7 @@
 import numpy as np
 
 ## Internal modules.
+from mml.models import init_range
 from mml.models.linreg import LinearRegression, LinearRegression_Multi
 
 
